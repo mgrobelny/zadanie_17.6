@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One');
+
+h1 {
+	color: darkblue;
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 55px;
+	font-weight: bold;
+	text-align: center;
+}
+p {
+	font-family: Calibri;
+	text-align: justify;
+	padding: 15px;
+}
+button {
+	margin: 0 auto;
+	font-family: 'Fjalla One', sans-serif;
+	background-color: transparent;
+	border: 3px solid darkblue;
+	padding: 20px 30px;
+	font-size: 50px;
+	cursor: pointer;
+}
+button:hover {
+	background-color: darkblue;
+	color: white;
+	border: 3px solid red;
+}
+b {
+	color: darkblue;
+}
